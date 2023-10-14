@@ -42,21 +42,25 @@ class HomePage extends StatelessWidget{
             width: MediaQuery.of(context).size.width/8,
            color: Colors.red,
           ),
+          Divider(),
           Container(
             height: MediaQuery.of(context).size.height/8,
             width: MediaQuery.of(context).size.width/8,
            color: Colors.yellow,
           ),
+          Divider(),
           Container(
             height: MediaQuery.of(context).size.height/8,
             width: MediaQuery.of(context).size.width/8,
            color: const Color.fromARGB(255, 79, 244, 54),
           ),
+          Divider(),
           Container(
             height: MediaQuery.of(context).size.height/8,
             width: MediaQuery.of(context).size.width/8,
            color: Colors.grey,
           ),
+          Divider(),
           Container(
             height: MediaQuery.of(context).size.height/8,
             width: MediaQuery.of(context).size.width/8,
